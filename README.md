@@ -1,85 +1,104 @@
-<h1 align="center">Hi 👋, I'm Roshan Kumar Rawat</h1>
-🚀 Full-Stack Developer | BCA Graduate | Passionate about React.js & Next.js
+<h1 align="center">Hi there! 👋 I'm Roshan Kumar Rawat</h1>
 
-
-I am a BCA graduate with expertise in **React.js, Next.js, React Native, C++, Java, Node.js, Express.js**, and **MongoDB**. Passionate about building scalable and efficient applications, contributing to open-source projects, and using technology to create meaningful real-world solutions.
-
-
-Currently seeking **Full-Stack Developer** or **Software Engineer** opportunities where I can work on impactful projects, grow with a collaborative team, and continue learning. If you come across any suitable opportunities, feel free to reach out!
-
-
-<hr>
+---
 
 <div align="center">
-  <img alt="coding" width="400" src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" />
-  <p> <img src="https://komarev.com/ghpvc/?username=roshan-rawat15&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-rawat15" /> </p>
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan-rawat15" alt="roshan-rawat15" /></a> </p>
-
-🔭 I’m currently working on **ReactJS project focused on building a responsive web application**<br>
-👯 I’m looking to collaborate on **open-source ReactJS projects**<br>
-All of my projects are available at [My Portfolio](https://portfolio-six-zeta-0u5x6brln7.vercel.app/)<br>
-💬 Ask me about **Reactjs, C++, Java**<br>
-📫 How to reach me **roshan122003@gmail.com**<br>
-
-<hr>
-
-<h3 align="center">🚀 Languages & Technologies</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-C++-red?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/UI-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" />
-</p>
-
-<hr>
-
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/roshan-rawat15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan kumar rawat" height="30" width="40" /></a>
-  <a href="https://instagram.com/roshan_kr5292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roshan_kr5292" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/roshankumarrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshankumarrawat" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/roshan1nk8k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roshan1nk8k" height="30" width="40" /></a>
-</p>
-
-<hr>
-
-<h3>Languages and Tools:</h3>
-<div align="center">
-  <!-- keep your existing tech icons (no change) -->
-  <!-- ... your tech stack icons from original code ... -->
+  <img src="https://raw.githubusercontent.com/roshan-rawat15/roshan-rawat15/main/pixel_dev_setup.png" alt="Pixel Art Developer Setup" width="800" />
 </div>
 
-<hr>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-rawat15&show_icons=true&locale=en&layout=compact" alt="roshan-rawat15" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan-rawat15&show_icons=true&locale=en" alt="roshan-rawat15" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-rawat15&" alt="roshan-rawat15" />
-</p>
-
-<hr>
-
-<h3 align="center">📊 GitHub Contribution Calendar</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-rawat15&theme=react-dark&hide_border=true">
-</p>
-
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
 <div align="center">
-  <img alt="snake" src="https://github.com/roshan-rawat15/roshan-rawat15/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20a%20Full-Stack%20Developer;I%20Love%20Building%20with%20MERN%20Stack;I%20Contribute%20to%20Open%20Source;Let's%20Connect%20and%20Code!&center=true&size=25&duration=3000&color=20B2AA&font=Varela%20Round" alt="Typing Animation" />
 </div>
 
-<hr>
+<h3 align="center">🚀 Full Stack Developer | BCA Graduate</h3>
 
-<h3 align="center">☕ Support Me</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/roshankumar" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="roshankumar" />
-  </a>
+  <a href="https://github.com/roshan-rawat15?tab=followers"><img src="https://img.shields.io/github/followers/roshan-rawat15?style=social&label=Followers" alt="GitHub followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=roshan-rawat15&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views">
 </p>
+
+---
+
+## 🌟 About Me: The MERN Architect
+
+I am a **BCA graduate** with a strong foundation and expertise in modern web technologies, including **React.js, Next.js, Node.js, Express.js, and MongoDB (MERN Stack)**. My passion lies in building **scalable, efficient, and user-friendly applications**.
+
+I also have solid programming skills in **C++** and **Java**, allowing me to tackle diverse technical challenges. I actively contribute to **open-source projects** and leverage technology to create meaningful, real-world solutions.
+
+Currently, I'm seeking **Full-Stack Developer** or **Software Engineer** roles where I can apply my skills, grow within a collaborative environment, and continuously learn. If you know of any suitable opportunities, please don't hesitate to connect!
+
+---
+
+## 🛠️ Core Tech Stack & Tools
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <br>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+---
+
+## 💻 Current Focus & Goals
+
+| Icon | Area | Details |
+| :--- | :--- | :--- |
+| 🔭 | **Working On** | A dynamic, responsive web application using **ReactJS** and modern API integration. |
+| 🤝 | **Collaborating On** | Actively seeking and contributing to **open-source ReactJS projects** (looking for impactful issues!). |
+| 🧠 | **Asking About** | **React.js, Node.js, C++, Java** best practices, and system design. |
+| 🔗 | **Portfolio** | All my projects are available at [My Portfolio](https://portfolio-six-zeta-0u5x6brln7.vercel.app/) |
+| 📧 | **Contact** | Drop me an email: **roshan122003@gmail.com** |
+
+---
+
+## 📊 Dynamic GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshan-rawat15&show_icons=true&locale=en&theme=react&hide_border=true&rank_icon=title" alt="Roshan's GitHub Stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-rawat15&theme=react-dark&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<h3 align="center">🏆 Achievements & Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshan-rawat15&theme=nord&no-bg=true" alt="Roshan's GitHub Trophies" /></a>
+</p>
+
+---
+
+## 📈 My Code Breakdown
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-rawat15&show_icons=true&locale=en&layout=pie&theme=dark&hide_border=true&langs_count=6" alt="Top Languages"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan-rawat15&theme=dracula&hide_border=true&point=9a9a9a&area=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+## 🌐 Connect with Me: Let's Collaborate!
+
+<p align="center">
+  <a href="https://linkedin.com/in/roshan-rawat15" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/roshan_kr5292" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.leetcode.com/roshankumarrawat" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/roshan1nk8k" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+</p>
+
+---
+
+<div align="center">
+  <br>
+  **Need a reliable Full-Stack Developer for your project? Let's talk!**
+</div>
