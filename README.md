@@ -3,11 +3,11 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/roshan-rawat15/roshan-rawat15/main/pixel_dev_setup.png" alt="Pixel Art Developer Setup" width="800" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZmOHY0MWw5eGZoM2Zmanp5aXdmeGdhbjZkZ2NpaXJiNDU1emwwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Pixel Art Developer Setup" height="400" width="600" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20a%20Full-Stack%20Developer;I%20Love%20Building%20with%20MERN%20Stack;I%20Contribute%20to%20Open%20Source;Let's%20Connect%20and%20Code!&center=true&size=25&duration=3000&color=20B2AA&font=Varela%20Round" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Roshan%20Kumar%20Rawat!;A%20Passionate%20Full-Stack%20Developer;Building%20with%20MERN%20Stack%20Expertise;Always%20Learning%20and%20Innovating!&font=Press+Start+2P&center=true&size=22&color=1E90FF&background=00000000&vCenter=true&width=850&height=150&duration=2500&pause=1000&random=false&multiline=true&loop=true" alt="Typing Text Animation" />
 </div>
 
 <h3 align="center">🚀 Full Stack Developer | BCA Graduate</h3>
